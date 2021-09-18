@@ -99,7 +99,7 @@ If you are not using Conda to manage your virtual environments, follow these ins
 
 ```shell
 # Create a virtual environment
-# Use an ENV_DIR of your choice. We will use ~/virtualenvs/dac-prod
+# Use an ENV_DIR of your choice. We will use ~/virtualenvs/datavault-api-client-prod
 # Any parent directories should already exist
 python3 -m virtualenv ~/virtualenvs/datavault-api-client-prod
 
@@ -119,7 +119,7 @@ Below is brief overview on how to set-up a virtual environment with PowerShell u
 
 ```shell
 # Create a virtual environment
-# Use an ENV_DIR of your choice. Use %USERPROFILE% fro cmd.exe
+# Use an ENV_DIR of your choice. Use %USERPROFILE% from cmd.exe
 python -m venv $env:USERPROFILE\virtualenvs\datavault-api-client-prod
 
 # Activate the virtualenv. User activate.bat for cmd.exe
