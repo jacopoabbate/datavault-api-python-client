@@ -272,4 +272,4 @@ Distributed under the terms of the MIT license, DataVault API Python Client  is 
 
 ## Credits
 
-Python Watchlist Config Generator is developed and maintained by [Jacopo Abbate](mailto:jacopo.abbate@peregrinetraders.com "jacopo.abbate@peregrinetraders.com").
+Python Watchlist Config Generator is developed and maintained by [Jacopo Abbate](mailto:jacopo.abbate@gmail.com "jacopo.abbate@gmail.com").
