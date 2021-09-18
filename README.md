@@ -120,10 +120,10 @@ Below is brief overview on how to set-up a virtual environment with PowerShell u
 ```shell
 # Create a virtual environment
 # Use an ENV_DIR of your choice. Use %USERPROFILE% fro cmd.exe
-python -m venv $env:USERPROFILE\virtualenvs\dac-prod
+python -m venv $env:USERPROFILE\virtualenvs\datavault-api-client-prod
 
 # Activate the virtualenv. User activate.bat for cmd.exe
-~\virtualenvs\pandas-dev\Scripts\Activate.ps1
+~\virtualenvs\datavault-api-client-prod\Scripts\Activate.ps1
 
 # Install the package dependencies
 python -m pip install -r requirements-prod.txt
